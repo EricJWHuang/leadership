@@ -1,2 +1,0 @@
-# leadership
-leadership notes, etc
