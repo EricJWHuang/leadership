@@ -1,5 +1,5 @@
 # Eric Readme
-Inspired by [other managers](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe), I have my own readme which outlines what I believe, how I operate, what's important to me, etc. I have shared this with all the teams that I have worked together. It may sound great from paper and it's easier said than done, and let's work together to build relationship and trust.
+Inspired by [other managers](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe), I have my own readme which outlines what I believe, how I operate, what's important to me, etc. I have shared this with all the teams that I have worked with. It may sound great from paper and it's easier said than done, and let's work together to build relationships and trust.
 
 ## My Goal
 Offer my best and help, wherever I can, successful delivery of the team’s mission
@@ -13,11 +13,11 @@ I am
         - I don’t know all the answers and I will ask for help.
         - I made mistakes and I will own them.
         - I have a personality and preference, and I am still learning.
-        - All learnings start with “I don’t know” and then figure it out.
+        - All learning starts with “I don’t know” and then figures it out.
     - I like to be challenged and I do not feel offended. Ideas don’t get better with agreement. I will keep asking feedback on my performance which is critical to my success
         - I will respectfully challenge decisions when I disagree and I seek diverse perspectives
     - If you think about planning to leave and join a new company, let’s have a chat if you trust me and explore what options are to help you. I have a personal lesson to share with you if you like to hear.
-- Passionate on building Effective &amp; Productive Team. I am committed and passionate to create an engaged, safe, empowered, recognition-rich, Agile (tight feedback loop), continuous improved and collaborative environment and being a servant leader.
+- Passionate on building an Effective & Productive Team. I am committed and passionate to create an engaged, safe, empowered, recognition-rich, Agile (tight feedback loop), continuous improved and collaborative environment and being a servant leader.
 - Bias to making progress towards goals &amp; delivering customer value. I believe starting is the best way to begin learning and make progress, i.e. big fan of CI/CD, automation, monitoring/alerting, etc.
     - My role is to make priorities and goals/outcomes super clear and transparent to you, and ensure we are making progress towards achieving it.
     - Experiment &amp; Feedback over Opinion (There is no right or wrong answer, let’s experiment and get feedback)
@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=ivwKQqf4ixA and https://www.youtube.com/watch?v=
     - This is your team, not just mine. Be a giver not taker. Constructively challenge the status quo, look for better ways to do things and passionately advocate continuous improvement
         - Don’t let roles get in the way, participant &amp; ask questions around business analysis, UX, development, etc
     - A team player which means we only win if we all win. No egos and heroes. It is not about being a hero but jumping in and contributing to the successful delivery of the team’s mission
-    - **A thinker not order taker**. Be autonomous &amp; self-managing (I will share as much as I can on goals & context & problems & why)
+    - **A thinker not an order taker**. Be autonomous &amp; self-managing (I will share as much as I can on goals & context & problems & why)
     - You build it, you run it
     - Let me know what you need from me to be successful in your role
 
