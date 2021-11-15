@@ -13,7 +13,7 @@ I am
         - I don’t know all the answers and I will ask for help.
         - I made mistakes and I will own them.
         - I have a personality and preference, and I am still learning.
-        - All  learnings start with “I don’t know” and then figure it out.
+        - All learnings start with “I don’t know” and then figure it out.
     - I like to be challenged and I do not feel offended. Ideas don’t get better with agreement. I will keep asking feedback on my performance which is critical to my success
         - I will respectfully challenge decisions when I disagree and I seek diverse perspectives
     - If you think about planning to leave and join a new company, let’s have a chat if you trust me and explore what options are to help you. I have a personal lesson to share with you if you like to hear.
