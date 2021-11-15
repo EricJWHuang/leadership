@@ -2,7 +2,7 @@
 Inspired by [other managers](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe), I have my own readme which outlines what I believe, how I operate, what's important to me, etc. I have shared this with all the teams that I have worked with. It may sound great from paper and it's easier said than done, and let's work together to build relationships and trust.
 
 ## My Goal
-Offer my best and help, wherever I can, successful delivery of the team’s mission
+Offer my best and help, wherever I can, successful delivery of the team’s mission and achieve individuals success
 
 ## How?
 I am
