@@ -19,6 +19,8 @@ I am
     - If you think about planning to leave and join a new company, let’s have a chat if you trust me and explore what options are to help you. I have a personal lesson to share with you if you like to hear.
 - Passionate on building an Effective & Productive Team. I am committed and passionate to create an engaged, safe, empowered, recognition-rich, Agile (tight feedback loop), continuous improved and collaborative environment and being a servant leader.
 - Bias to making progress towards goals &amp; delivering customer value. I believe starting is the best way to begin learning and make progress, i.e. big fan of CI/CD, automation, monitoring/alerting, etc.
+    - I won't checkin for progress update and will wait for an update in next standup unless it is a high priority of the day, i.e. incident resolution, unblocking others, etc
+        - Let me know if you are blocked and how I can help
     - My role is to make priorities and goals/outcomes super clear and transparent to you, and ensure we are making progress towards achieving it.
     - Experiment &amp; Feedback over Opinion (There is no right or wrong answer, let’s experiment and get feedback)
 - My favourite book, Turn The Ship Around and my leadership style is influenced by it
