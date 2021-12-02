@@ -14,6 +14,8 @@ I am
         - I made mistakes and I will own them.
         - I have a personality and preference, and I am still learning.
         - All learning starts with “I don’t know” and then figures it out.
+    - Failures are inevitable and ask why and what caused the failures and how could we bring better tools and information and context accessible to improve and prevent it from happening again
+        - https://www.ryn.works/blog/2017/06/17/on-failure-and-resilience focus on desired outcome and how people can work together to help resolve a situation in the moment as well as make the systems involved better equipped to handle situations in the future, can do wonders for system and organizational resilience.
     - I like to be challenged and I do not feel offended. Ideas don’t get better with agreement. I will keep asking feedback on my performance which is critical to my success
         - I will respectfully challenge decisions when I disagree and I seek diverse perspectives
     - If you think about planning to leave and join a new company, let’s have a chat if you trust me and explore what options are to help you. I have a personal lesson to share with you if you like to hear.
