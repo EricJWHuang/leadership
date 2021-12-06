@@ -31,6 +31,10 @@ https://www.youtube.com/watch?v=ivwKQqf4ixA and https://www.youtube.com/watch?v=
 - My expectation of you &amp; myself
     - This is your team, not just mine. Be a giver not taker. Constructively challenge the status quo, look for better ways to do things and passionately advocate continuous improvement
         - Don’t let roles get in the way, participant &amp; ask questions around business analysis, UX, development, etc
+        - Giver culture https://youtu.be/YyXRYgjQXX0
+            - Success is really more about contribution
+            - Help other people succeed
+            - Encourage help-seeking. Make help-seeking a norm where people ask a lot. Asking is not embracing, vulnerable but encouraged
     - A team player which means we only win if we all win. No egos and heroes. It is not about being a hero but jumping in and contributing to the successful delivery of the team’s mission
         - **We success and fail as a team instead of individuals**
     - **A thinker not an order taker**. Be autonomous &amp; self-managing (I will share as much as I can on goals & context & problems & why)
