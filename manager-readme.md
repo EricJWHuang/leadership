@@ -6,6 +6,7 @@ Offer my best and help, wherever I can, successful delivery of the team’s miss
 
 ## How?
 I am
+- Not native English speaker. Let me know if you cannot understand me because I may speak too fast:)
 - People First.
     - You are not my direct report but direct support.
     - Your success is my success. My success comes through helping others succeed. I commit to understanding you so that you could happily work at your nature best, unleash &amp; achieve your potential, make the team better than they already are i.e. through regular 1:1s focusing on your career progressing, etc
