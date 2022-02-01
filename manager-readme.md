@@ -19,8 +19,10 @@ I am
         - https://www.ryn.works/blog/2017/06/17/on-failure-and-resilience focus on desired outcome and how people can work together to help resolve a situation in the moment as well as make the systems involved better equipped to handle situations in the future, can do wonders for system and organizational resilience.
     - I like to be challenged and I do not feel offended. Ideas don’t get better with agreement. I will keep asking feedback on my performance which is critical to my success
         - I will respectfully challenge decisions when I disagree and I seek diverse perspectives
+        - I seek discussion, not consensus
     - If you think about planning to leave and join a new company, let’s have a chat if you trust me and explore what options are to help you. I have a personal lesson to share with you if you like to hear.
 - Passionate on building an Effective & Productive Team. I am committed and passionate to create an engaged, safe, empowered, recognition-rich, Agile (tight feedback loop), continuous improved and collaborative environment and being a servant leader.
+- Have gig mindset - self-manage, take initiatives, focus on skills more than roles, shortcut processes, and don’t hesitate to question the status quo
 - Bias to making progress towards goals &amp; delivering customer value. I believe starting is the best way to begin learning and make progress, i.e. big fan of CI/CD, automation, monitoring/alerting, etc.
     - I won't checkin for progress update and will wait for an update in next standup unless it is a high priority of the day, i.e. incident resolution, unblocking others, etc
         - Let me know if you are blocked and how I can help
