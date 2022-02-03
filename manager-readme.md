@@ -40,8 +40,9 @@ https://www.youtube.com/watch?v=ivwKQqf4ixA and https://www.youtube.com/watch?v=
             - Encourage help-seeking. Make help-seeking a norm where people ask a lot. Asking is not embracing, vulnerable but encouraged
     - A team player which means we only win if we all win. No egos and heroes. It is not about being a hero but jumping in and contributing to the successful delivery of the team’s mission
         - **We success and fail as a team instead of individuals**
+        - Don't expect you to be an expert in everything (otherwise the cognitive load would be too much for individuals), but be curious and willing to do more than just your own thing and [work side-by-side, in a give and take, with others](https://github.com/EricJWHuang/leadership-private/blob/main/collaborative-and-self-contained.md)
     - **A thinker not an order taker**. Be autonomous &amp; self-managing (I will share as much as I can on goals & context & problems & why)
         - I will try to be last to speak and express my opinions so that you could think and feel contribution
-    - You build it, you run it
+    - Ownership. You build it, you run it
     - Let me know what you need from me to be successful in your role
 
