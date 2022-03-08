@@ -24,6 +24,7 @@ I am
 - Passionate on building an Effective & Productive Team. I am committed and passionate to create an engaged, safe, empowered, recognition-rich, Agile (tight feedback loop), continuous improved and collaborative environment and being a servant leader.
 - Have gig mindset - self-manage, take initiatives, focus on skills more than roles, shortcut processes, and don’t hesitate to question the status quo
 - Bias to making progress towards goals &amp; delivering customer value. I believe starting is the best way to begin learning and make progress, i.e. big fan of CI/CD, automation, monitoring/alerting, etc.
+    - I would like to explore different options to deliver outcome as efficiently as possible i.e. getting stuff done in parallel, MVP, etc
     - I won't checkin for progress update and will wait for an update in next standup unless it is a high priority of the day, i.e. incident resolution, unblocking others, etc
         - Let me know if you are blocked and how I can help
         - I love Pub/Sub instead of polling communication model
