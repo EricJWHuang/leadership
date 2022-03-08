@@ -26,6 +26,7 @@ I am
 - Bias to making progress towards goals &amp; delivering customer value. I believe starting is the best way to begin learning and make progress, i.e. big fan of CI/CD, automation, monitoring/alerting, etc.
     - I won't checkin for progress update and will wait for an update in next standup unless it is a high priority of the day, i.e. incident resolution, unblocking others, etc
         - Let me know if you are blocked and how I can help
+        - I love Pub/Sub instead of polling communication model
     - My role is to make priorities and goals/outcomes super clear and transparent to you, and ensure we are making progress towards achieving it.
     - Experiment &amp; Feedback over Opinion (There is no right or wrong answer, let’s experiment and get feedback)
 - My favourite book, Turn The Ship Around and my leadership style is influenced by it
@@ -40,6 +41,7 @@ https://www.youtube.com/watch?v=ivwKQqf4ixA and https://www.youtube.com/watch?v=
             - Encourage help-seeking. Make help-seeking a norm where people ask a lot. Asking is not embracing, vulnerable but encouraged
     - A team player which means we only win if we all win. No egos and heroes. It is not about being a hero but jumping in and contributing to the successful delivery of the team’s mission
         - **We success and fail as a team instead of individuals**
+        - Stakeholder management. Collaborate with team on your plan of attack, design, etc to get buy-ins and feedback
         - Don't expect you to be an expert in everything and perform any kind of task (otherwise the cognitive load would be too much for individuals), but be curious and willing to learn and do more than just your own thing and [work side-by-side, in a give and take, with others](https://github.com/EricJWHuang/leadership-private/blob/main/collaborative-and-self-contained.md) where we **combine different skills in the most effective way, not hand-off or throw stuff over the fence**. For example, while others are responsible and have expertise in their domains i.e. business analysis, programming, testing, operation, support, etc, you could propose ideas, offer feedback to requirements, pair with other engineers i.e. pair programming, adding tests, learn new programming language, etc, set up monitoring dashboard and alerts, etc
     - **A thinker not an order taker**. Be autonomous &amp; self-managing (I will share as much as I can on goals & context & problems & why)
         - I will try to be last to speak and express my opinions so that you could think and feel contribution
