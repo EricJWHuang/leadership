@@ -6,7 +6,7 @@ Offer my best and help, wherever I can, successful delivery of the team’s miss
 
 ## How?
 I am
-- Not native English speaker. Let me know if you cannot understand me because I may speak too fast:)
+- Not native English speaker. Let me know if you cannot understand me because I may speak too fast occasionally :)
 - People First.
     - You are not my direct report but direct support.
     - Your success is my success. My success comes through helping others succeed. I commit to understanding you so that you could happily work at your nature best, unleash &amp; achieve your potential, make the team better than they already are i.e. through regular 1:1s focusing on your career progressing, etc
@@ -22,6 +22,7 @@ I am
         - I seek discussion, not consensus
     - If you think about planning to leave and join a new company, let’s have a chat if you trust me and explore what options are to help you. I have a personal lesson to share with you if you like to hear.
 - Passionate on building an Effective & Productive Team. I am committed and passionate to create an engaged, safe, empowered, recognition-rich, Agile (tight feedback loop), continuous improved and collaborative environment and being a servant leader.
+    - Help you become [an empowered engineer](https://svpg.com/the-most-important-thing/)
 - Have gig mindset - self-manage, take initiatives, focus on skills more than roles, shortcut processes, and don’t hesitate to question the status quo
 - Bias to making progress towards goals &amp; delivering customer value. I believe starting is the best way to begin learning and make progress, i.e. big fan of CI/CD, automation, monitoring/alerting, etc.
     - I would like to explore different options to deliver outcome as efficiently as possible i.e. getting stuff done in parallel, MVP, etc
