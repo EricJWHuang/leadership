@@ -48,6 +48,8 @@ https://www.youtube.com/watch?v=ivwKQqf4ixA and https://www.youtube.com/watch?v=
     - **A collaborative thinker not an order taker**. Be autonomous &amp; self-managing &amp; collaborative (I will share as much as I can on goals & context & problems & why)
         - I will try to be last to speak and express my opinions so that you could think and feel contribution
         - I believe this will be "unlocking people’s potential to maximize their own performance"
+        - Lean & Try & Fail Fast. Take risks in safe ways
+        - Keep decision making visible and socialise it with others to collaborate
     - Ownership. You build it, you run it
     - Let me know what you need from me to be successful in your role
 
