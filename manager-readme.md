@@ -12,7 +12,7 @@ Offer my best and help, wherever I can, successful delivery of the team’s miss
     - I am committed and passionate to create an engaged, safe, empowered, recognition-rich, Agile (tight feedback loop), continuous improved and collaborative environment and being a servant leader.
     - Help you become [an empowered engineer](https://svpg.com/the-most-important-thing/)
 
-## How I operate
+## How I Operate
 - I am not a native English speaker. Let me know if you cannot understand me i.e. I may speak too fast occasionally :)
 - I am vulnerable with you. It is alright.
     - I don’t know all the answers and I will ask for help.
@@ -52,5 +52,6 @@ Offer my best and help, wherever I can, successful delivery of the team’s miss
     - Lean & Try & Fail Fast. Take risks in safe ways
     - Keep decision making visible and socialise it with others to collaborate
 - Ownership. You build it, you run it
+- Ability to learn (we may hire you for a certain set of skills, the rate of change and the need for skills is quite rapid)
 - Let me know what you need from me to be successful in your role
 
