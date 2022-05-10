@@ -52,6 +52,9 @@ Offer my best and help, wherever I can, successful delivery of the team’s miss
     - Lean & Try & Fail Fast. Take risks in safe ways
     - Keep decision making visible and socialise it with others to collaborate
 - Ownership. You build it, you run it
+- Humble (taking oneself not so important, being able to put other's first)
+- Hungry (wanting to contribute, to the purpose of the team, the product, firm)
+- Smart (people-smart, common knowledge and self-awareness of how and how not to treat other people.)
 - Ability to learn (we may hire you for a certain set of skills, the rate of change and the need for skills is quite rapid)
 - Let me know what you need from me to be successful in your role
 
