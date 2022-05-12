@@ -6,7 +6,7 @@ Offer my best and help, wherever I can, successful delivery of the team’s miss
 
 ## My Guilding Principles
 - Put People First
-    - You are not my direct report but direct support.
+    - You are not my direct report but direct support. You don't work for me, I work for you
     - Your success is my success. My success comes through helping others succeed. I commit to understanding you so that you could happily work at your nature best, unleash &amp; achieve your potential, make the team better than they already are i.e. through regular 1:1s focusing on your career progressing, etc
 - Promote Effective & Productive Team environment
     - I am committed and passionate to create an engaged, safe, empowered, recognition-rich, Agile (tight feedback loop), continuous improved and collaborative environment and being a servant leader.
@@ -51,10 +51,11 @@ Offer my best and help, wherever I can, successful delivery of the team’s miss
     - I believe this will be "unlocking people’s potential to maximize their own performance"
     - Lean & Try & Fail Fast. Take risks in safe ways
     - Keep decision making visible and socialise it with others to collaborate
-- Ownership. You build it, you run it
+- Ownership (you build it, you run it)
 - Humble (taking oneself not so important, being able to put other's first)
 - Hungry (wanting to contribute, to the purpose of the team, the product, firm)
 - Smart (people-smart, common knowledge and self-awareness of how and how not to treat other people.)
 - Ability to learn (we may hire you for a certain set of skills, the rate of change and the need for skills is quite rapid)
+- Connect to co-workers
 - Let me know what you need from me to be successful in your role
 
