@@ -14,6 +14,7 @@ Offer my best and help, wherever I can, successful delivery of the team’s miss
 
 ## How I Operate
 - I am not a native English speaker. Let me know if you cannot understand me i.e. I may speak too fast occasionally :)
+- I come to work driven to succeed, to grow, and to be acknowledged.
 - I am vulnerable with you. It is alright.
     - I don’t know all the answers and I will ask for help.
     - I made mistakes and I will own them.
