@@ -47,6 +47,7 @@ Offer my best and help, wherever I can, successful delivery of the team’s miss
     - **We success and fail as a team instead of individuals**
     - Stakeholder management. Collaborate with team on your plan of attack, design, etc to get buy-ins and feedback
     - Don't expect you to be an expert in everything and perform any kind of task (otherwise the cognitive load would be too much for individuals), but be curious and willing to learn and do more than just your own thing and [work side-by-side, in a give and take, with others](https://github.com/EricJWHuang/leadership-private/blob/main/collaborative-and-self-contained.md) where we **combine different skills in the most effective way, not hand-off or throw stuff over the fence**. For example, while others are responsible and have expertise in their domains i.e. business analysis, programming, testing, operation, support, etc, you could propose ideas, offer feedback to requirements, pair with other engineers i.e. pair programming, adding tests, learn new programming language, etc, set up monitoring dashboard and alerts, etc
+        - Regularly i.e. every other sprint, try to complete at least one task you’ve never done before
 - **A collaborative thinker not an order taker**. Be autonomous &amp; self-managing &amp; collaborative (I will share as much as I can on goals & context & problems & why)
     - I will try to be last to speak and express my opinions so that you could think and feel contribution
     - I believe this will be "unlocking people’s potential to maximize their own performance"
