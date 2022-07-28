@@ -27,10 +27,12 @@ Offer my best and help, wherever I can, successful delivery of the team’s miss
     - I seek discussion, not consensus
 - I have gig mindset - self-manage, take initiatives, focus on skills more than roles, shortcut processes, and don’t hesitate to question the status quo
 - I am bias to making progress towards goals &amp; delivering customer value. I believe starting is the best way to begin learning and make progress, i.e. MVP, CI/CD, automation, monitoring/alerting, etc.
+    - I would limit WIP
     - I would like to explore different options to deliver outcome as efficiently as possible i.e. getting stuff done in parallel, MVP, etc
-    - I won't checkin for progress update and will wait for an update in next standup unless it is a high priority of the day, i.e. incident resolution, unblocking others, etc
+    - I won't checkin for progress update and will wait for an update in next standup **unless** it is a high priority of the day, i.e. high serv incident resolution, unblocking others, etc
         - Let me know if you are blocked and how I can help
         - I love Pub/Sub instead of polling communication model
+    - I would like to have a call together if there seems a misalignment on priority
     - My role is to make priorities and goals/outcomes super clear and transparent to you, and ensure we are making progress towards achieving it.
     - Experiment &amp; Feedback over Opinion (There is no right or wrong answer, let’s experiment and get feedback)
 - My favourite book, Turn The Ship Around and my leadership style is influenced by it
