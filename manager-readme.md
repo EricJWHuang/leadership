@@ -45,6 +45,7 @@ Offer my best and help, wherever I can, successful delivery of the team’s miss
         - Success is really more about contribution
         - Help other people succeed
         - Encourage help-seeking. Make help-seeking a norm where people ask a lot. Asking is not embracing, vulnerable but encouraged
+    - Our job as engineers is to solve customer and business problems.
 - A team player which means we only win if we all win. No egos and heroes. It is not about being a hero but jumping in and contributing to the successful delivery of the team’s mission
     - **We success and fail as a team instead of individuals**
     - Stakeholder management. Collaborate with team on your plan of attack, design, etc to get buy-ins and feedback
