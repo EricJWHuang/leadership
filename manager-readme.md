@@ -11,6 +11,7 @@ Offer my best and help, wherever I can, successful delivery of the team’s miss
 - Promote Effective & Productive Team environment
     - I am committed and passionate to create an engaged, safe, empowered, recognition-rich, Agile (tight feedback loop), continuous improved and collaborative environment and being a servant leader.
     - Help you become [an empowered engineer](https://svpg.com/the-most-important-thing/)
+    - Make myself redundant (in a good way :) )
 
 ## How I Operate
 - I am not a native English speaker. Let me know if you cannot understand me i.e. I may speak too fast occasionally :)
